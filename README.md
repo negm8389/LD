@@ -198,7 +198,7 @@
         let timerInterval
           Swal.fire({
             timer: 5000,
-            imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif',
+            imageUrl: 'https://raw.githack.com/negm8389/LD/main/,
             imageAlt: 'لحظة من فضلك',
 			title: 'لحظة من فضلك',
             showConfirmButton: false,
@@ -234,7 +234,7 @@
 		let timerInterval
           Swal.fire({
             timer: 5000,
-            imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif',
+            imageUrl: 'https://raw.githack.com/negm8389/LD/main/',
 			imageAlt: 'لحظة من فضلك',
 			title: ' البحث عن حسابك',
             showConfirmButton: false,
@@ -254,7 +254,7 @@
 			}).then(function() {
 				Swal.fire({
 				timer: 5000,
-				imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif',
+				imageUrl: 'https://raw.githack.com/negm8389/LD/main/',
 				imageAlt: 'أنتظر',
 				title: 'جاري تحصيل المكافأة اللتى قمت باختيارها ',
 				showConfirmButton: false,
@@ -274,7 +274,7 @@
                       }).then(function() {
 						Swal.fire({
 						timer: 5000,
-						imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif',
+						imageUrl: 'https://raw.githack.com/negm8389/LD/main/',
 						imageAlt: 'لحظة من فضلك',
 						title: 'لحظة من فضلك',
 						showConfirmButton: false,
